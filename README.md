@@ -1,5 +1,5 @@
 # Australian Road Accidents Analysis
-
+[<img src="visuals/Automobile-Accidents-In-Australia.jpg" alt="Accidents Analysis" height="1000px">](https://github.com/pravin-nawghare/australia-accident-analysis/blob/main/visuals/Automobile-Accidents-In-Australia.jpg)
 
 ## Project Overview
 The goal of this project is to analyze historical road accident data in Australia from 1960 to 2024 and to identify key trends, contributing factors, and the effectiveness of past safety measures. 
