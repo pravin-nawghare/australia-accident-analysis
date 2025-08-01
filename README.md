@@ -1,4 +1,6 @@
-# Australian Road Accidents 
+# Australian Road Accidents Analysis
+
+
 ## Project Overview
 The goal of this project is to analyze historical road accident data in Australia from 1960 to 2024 and to identify key trends, contributing factors, and the effectiveness of past safety measures. 
 
